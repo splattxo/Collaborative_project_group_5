@@ -17,4 +17,4 @@ mtcars %>%
     ylab("Miles Per Gallon") +
     labs(color = "Cylinders", shape = "Cylinders") +
     theme_minimal() + 
-    ggtitle("CHANGE THIS TITLE") #update this line
+    ggtitle("Motor Trends Data Visualization") 
