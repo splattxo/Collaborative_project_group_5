@@ -21,10 +21,10 @@ Spenser: Elevating the Teamwork Contract and README + is a "different person in 
 
 Timing
 When will you each aim to submit your pull requests, keeping in mind that another teammate will need to review your work? Warning: Do not submit your part of the project last-minute. Your teammate’s review of your work may not be trivial: if there are errors, your team will need time to debug them.
-
+We will aim to be done by Tuesday so we can check that everything is great and tidy up during the class.
 
 
 Communication
 How will you communicate with each other? For example, will you be using both Slack and GitHub Issues? For what, exactly? How long will it realistically take you to respond to a message? Will you hold a regular meeting, or rely exclusively on asynchronous communication?
 
-We will use our Whatsapp groupchat. 
+We will use our Whatsapp groupchat. We will respond within 24 hours. We will check in during next Tuesday's in-person class to see where we are at. In the meantime, we will message our progress on the groupchat.
