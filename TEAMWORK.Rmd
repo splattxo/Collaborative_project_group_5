@@ -28,3 +28,13 @@ Communication
 How will you communicate with each other? For example, will you be using both Slack and GitHub Issues? For what, exactly? How long will it realistically take you to respond to a message? Will you hold a regular meeting, or rely exclusively on asynchronous communication?
 
 We will use our Whatsapp groupchat. We will respond within 24 hours. We will check in during next Tuesday's in-person class to see where we are at. In the meantime, we will message our progress on the groupchat.
+
+
+Tasklist:
+- [x] create tasklist
+- [x] tag teammates on TEAMWORK.md
+- [x] clickable hyperlink to the course website
+- [ ] discuss on Tuesday
+
+Tag teammates: 
+[@courtneydragota] [@suhailang] 
