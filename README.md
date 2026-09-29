@@ -25,5 +25,5 @@ Contents of all folders
 - `plots.R`: mtcars plots
 -`img`: caribou titled "photo.jpg"
 -collab-proj-template.Rproj`: The 'settings' panel
--`.Rhistory`: log of commands in R console. Contains nothing at the moment
+-`.Rhistory`: log of commands in R console. Empty currently
 -`.gitignore`: Things to not include in Git
