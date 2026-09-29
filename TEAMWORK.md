@@ -31,10 +31,10 @@ We will use our Whatsapp groupchat. We will respond within 24 hours. We will che
 
 
 Tasklist:
-- [x] create tasklist
-- [x] tag teammates on TEAMWORK.md
-- [x] clickable hyperlink to the course website
-- [ ] discuss on Tuesday
+- [done] create tasklist
+- [done] tag teammates on TEAMWORK.md
+- [done] clickable hyperlink to the course website
+- [done] discuss on Tuesday
 
 Tag teammates: 
 [@courtneydragota] [@suhailang] 
